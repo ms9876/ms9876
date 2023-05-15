@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms9876&show_icons=true&theme=![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast))
 
 <!--
 **ms9876/ms9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

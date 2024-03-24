@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=minseo%20Chae&fontSize=90&animation=fadeIn)
 
 # GameDeveloper   
-  ## 🏫경기게임마이스터고등학교 2학년
+  ## 🏫경기게임마이스터고등학교 3학년
   ### Start Programming : 2022.03 ~
 
 ---    

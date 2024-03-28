@@ -5,7 +5,7 @@
 
 # GameDeveloper   
   ## 🏫경기게임마이스터고등학교 3학년
-  ### Start Programming : 2022.03 ~
+  ### Start Programming : 2022.03 ~ 2024.12.31
 
 ---    
 
